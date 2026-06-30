@@ -286,10 +286,4 @@ This project helped me gain hands-on experience in:
 * API Handling
 * Streamlit Development
 
----
 
-# Author
-
-**Preeti Saini**
-Computer Science Engineer
-AI / Software Development Enthusiast
